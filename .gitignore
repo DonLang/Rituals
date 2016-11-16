@@ -5,6 +5,9 @@
 # Compiled source #
 ###################
 *.com
+*.log
+*.keep
+*.cache
 *.class
 *.dll
 *.exe
